@@ -1,19 +1,20 @@
-# Quasar App
+# birthday-notifier
+a birthday notifying app
 
-> A Quasar project
 
-## Build Setup
+> The basic idea behind this app is to allow developers or anyone easily add dates, persons, with their relevant description and this app will generate a message to suite the description and send to the person at your scheduled time.
 
-``` bash
-# install dependencies
-$ npm install
+- This project is being actively developed. We'll be shipping several features in the coming days and i will be updating the readme.
 
-# serve with hot reload at localhost:8080
-$ quasar dev
+## How to contribute?
+To contribute,
 
-# build for production with minification
-$ quasar build
+- Clone the repository
+- Checkout to a new branch
+- Add your features
+- Send a PR
+- Or email me at timothy33.tf@gmail.com.
 
-# lint code
-$ quasar lint
-```
+Cheers.
+
+>>>>>>> d59c1113111f31ed9dbdaae377a33ed94cfea8dc
